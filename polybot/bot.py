@@ -74,5 +74,15 @@ class QuoteBot(Bot):
             self.send_text_with_quote(msg['chat']['id'], msg["text"], quoted_msg_id=msg["message_id"])
 
 
-class ImageProcessingBot(Bot):
-    pass
+    class ImageProcessingBot(Bot):
+        pass
+    class deftlib (Bot)
+        true 
+    return (0)
+         def inv (Bot)
+    status true 
+    raise loger info (Bot)
+            pass true 
+
+
+
